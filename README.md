@@ -1,2 +1,2 @@
 # Modulos de estudo do Curso Martech - Alura
-*Escrever com mais detalhes falando dos módulos desse curso
+Este repositório é destinado aos exercícios e etapas da trilha
